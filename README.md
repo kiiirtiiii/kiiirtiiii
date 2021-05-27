@@ -1,4 +1,4 @@
-<h2> Hi there! <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/Hi.gif"></h2>
+<h1 align="center"> Hi there! fellow &ltdevelopers/&gt <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/Hi.gif" width="40px"> </h1>
 
 <!--
 **kiiirtiiii/kiiirtiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
