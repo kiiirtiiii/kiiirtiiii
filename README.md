@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/friendly_panda_agadhwadwbv8jq.gif" width="40px"> fellow &ltdevelopers/<img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/buddy_bear_agadbqeaavccya8.gif" width="40px">&gt</h1>
 
 <div align="center"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/kirt_sharma.gif" align="center">
-<img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/error.gif" width="100px" align="right">
+<img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/output-onlinegiftools.gif" width="100px" align="right">
 </div>
 <p align="center">
   <em>
