@@ -9,7 +9,7 @@
     <br><br>
     A future <b>Engineer</b> <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/coffee.gif" width="30px"> who focuses on <b>Competitive Programming</b> <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/gldfsh_agadbaiaaladvqo.gif" width="40px"> to improve <b>problem solving</b> skills.<br>
     I believe in <b>learning by doing</b> that's why I'm here to explore the creative & technical developments of like minded people. 
-    <br><br><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/coder.gif" width="500px">
+    <br><br><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/abc.gif" width="500px">
 </p>
     
     
