@@ -1,6 +1,11 @@
-<h1 align="center"> Hi there! fellow &ltdevelopers/&gt <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/Hi.gif" width="40px"> </h1>
+<h1 align="center"> Hi there! <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/friendly_panda_agadhwadwbv8jq.gif" width="40px"> fellow &ltdevelopers/<img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/buddy_bear_agadbqeaavccya8.gif" width="40px">&gt</h1>
 
 <div align="center"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/kirt_sharma.gif"></div>
+
+<p align="center">
+  <em>
+    an undergraduate who likes to explore the possibilities that technology brings in the world! <br><br>
+    A future <b>Engineer</b> who like 
 <!--
 **kiiirtiiii/kiiirtiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
