@@ -30,7 +30,13 @@
   </div>
 </div>
 
-<div align="center"> <h3> Want to connect with me? </h3> 
+<br><br><br>
+
+<!-- visitor count -->
+<div align="center"><b>Profile visit counts<b><br><img src="https://profile-counter.glitch.me/kiiirtiiii/count.svg"></div>
+
+<!-- Social media -->
+<div align="center"> 
+  <h2>Want to connect with me?</h2> 
+  <a src="#"> <img src="https://fontawesome.com/v5.15/icons/linkedin?style=brands"> </a>
 </div>
-    
-    
