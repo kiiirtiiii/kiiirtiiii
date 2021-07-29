@@ -17,7 +17,7 @@
 
 <!-- Website link -->
 <div align="center">
-  <h4> Check out my website:<b> <a href="http://www.kirtisharma.tech/" target="__blank">Kirti Sharma</a> </h4>
+  <h4> Check out my website:<b> <a href="http://www.kirtisharma.tech/" target="_blank">Kirti Sharma</a> </h4>
 </div>
 
 <!--funfact-->
