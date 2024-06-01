@@ -8,17 +8,11 @@
 <!--introduction-->
 <p align="center">
   <em>
-    an undergraduate who likes to explore the possibilities that technology brings in the world!
+    A curious developer who likes to explore the possibilities that technology brings in the world!
     <br><br>
-    A future <b>Engineer</b> <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/coffee.gif" width="30px"> who focuses on <b>Competitive Programming</b> <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/gldfsh_agadbaiaaladvqo.gif" width="40px"> to improve <b>problem solving</b> skills.<br>
-    I believe in <b>learning by doing</b> that's why I'm here to explore the creative & technical developments of like minded people.
+    Working as a backend developer <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/coffee.gif" width="30px"> who likes to create robust applications <img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/gif/gldfsh_agadbaiaaladvqo.gif" width="40px"> to impact the world in a positive way
   </em>
 </p> 
-
-<!-- Website link -->
-<div align="center">
-  <h4> Check out my website:<b> <a href="http://www.kirtisharma.tech/" target="_blank">Kirti Sharma</a> </h4>
-</div>
 
 <!--funfact-->
 <div align="left"> 
@@ -46,9 +40,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kiiirtiiii/" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/001-linkedin.png" alt="LinkedIn"></a></span> 
+  <a href="https://www.linkedin.com/in/kiiirtiiii/" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/001-linkedin.png" alt="LinkedIn"></a>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.stopstalk.com/user/profile/sharmakirti" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/003-ban.png" alt="StopStalk"></a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="mailto:kirtivats1409@gmail.com" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/002-gmail.png" alt="Mail"></a>
+  <a href="mailto:developer.kirtisharma@gmail.com" target="__blank"><img src="https://github.com/kiiirtiiii/kiiirtiiii/blob/main/social-icons/002-gmail.png" alt="Mail"></a>
 </div>
